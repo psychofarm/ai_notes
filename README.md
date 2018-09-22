@@ -8,4 +8,4 @@ A collection of Python scripts and Jupyter notebooks used to learn about and und
 
 #### Key concepts
 
-+ mean, mode, median, variance, standard deviation
++ mean, mode, median, variance, standard deviation, standard error
