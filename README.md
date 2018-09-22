@@ -6,6 +6,4 @@ A collection of Python scripts and Jupyter notebooks used to learn about and und
 
 ### Example code for finding statistics using a dictionary with three lists of integers
 
-#### Key concepts
-
 + mean, mode, median, variance, standard deviation, standard error
